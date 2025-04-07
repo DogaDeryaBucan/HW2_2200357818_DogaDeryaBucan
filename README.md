@@ -1,4 +1,4 @@
-#HW2_2200357818_DogaDeryaBucan
+# HW2_2200357818_DogaDeryaBucan 
 # Banknote Authentication with Decision Tree
 This project implements a Decision Tree classifier to predict whether a banknote is fake or authentic using the [UCI Banknote Authentication Dataset](https://archive.ics.uci.edu/ml/datasets/banknote+authentication).
 
