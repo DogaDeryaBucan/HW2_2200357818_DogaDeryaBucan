@@ -49,3 +49,17 @@ The dataset contains 1372 instances and 4 numerical features extracted from imag
  GitHub repo link here:  
 https://github.com/DogaDeryaBucan/HW2_2200357818_DogaDeryaBucan
 
+### Run Local
+
+1. Clone the repository:
+```bash
+git clone https://github.com/DogaDeryaBucan/HW2_2200357818_DogaDeryaBucan.git
+cd HW2_2200357818_DogaDeryaBucan
+```
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+```bash
+jupyter notebook decision_tree.ipynb
+```
+
